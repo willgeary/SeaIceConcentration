@@ -3,4 +3,4 @@ Analyzing Trends in Polar Sea Ice Concentration. Data from [Climate Reanalyzer](
 
 See `notebook.ipynb` for the code behind the analysis.
 
-[!img](https://raw.githubusercontent.com/willgeary/SeaIceConcentration/main/output.png)
+![img](https://raw.githubusercontent.com/willgeary/SeaIceConcentration/main/output.png)
